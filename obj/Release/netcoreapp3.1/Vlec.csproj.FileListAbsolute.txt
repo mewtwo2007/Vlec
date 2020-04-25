@@ -1,0 +1,13 @@
+C:\Users\zshep\C#\Vlec\bin\Release\netcoreapp3.1\Vlec.exe
+C:\Users\zshep\C#\Vlec\bin\Release\netcoreapp3.1\Vlec.dll.config
+C:\Users\zshep\C#\Vlec\bin\Release\netcoreapp3.1\Vlec.deps.json
+C:\Users\zshep\C#\Vlec\bin\Release\netcoreapp3.1\Vlec.runtimeconfig.json
+C:\Users\zshep\C#\Vlec\bin\Release\netcoreapp3.1\Vlec.runtimeconfig.dev.json
+C:\Users\zshep\C#\Vlec\bin\Release\netcoreapp3.1\Vlec.dll
+C:\Users\zshep\C#\Vlec\bin\Release\netcoreapp3.1\Vlec.pdb
+C:\Users\zshep\C#\Vlec\obj\Release\netcoreapp3.1\PlatformCompat.Analyzers.settings
+C:\Users\zshep\C#\Vlec\obj\Release\netcoreapp3.1\Vlec.dll
+C:\Users\zshep\C#\Vlec\obj\Release\netcoreapp3.1\Vlec.pdb
+C:\Users\zshep\C#\Vlec\obj\Release\netcoreapp3.1\Vlec.genruntimeconfig.cache
+C:\Users\zshep\C#\Vlec\obj\Release\netcoreapp3.1\Vlec.csprojAssemblyReference.cache
+C:\Users\zshep\C#\Vlec\obj\Release\netcoreapp3.1\Vlec.csproj.CoreCompileInputs.cache

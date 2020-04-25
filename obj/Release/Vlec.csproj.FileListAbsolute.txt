@@ -1,0 +1,7 @@
+C:\Users\zshep\C#\Vlec\bin\Release\Vlec.exe.config
+C:\Users\zshep\C#\Vlec\bin\Release\Vlec.exe
+C:\Users\zshep\C#\Vlec\bin\Release\Vlec.pdb
+C:\Users\zshep\C#\Vlec\obj\Release\Vlec.csprojAssemblyReference.cache
+C:\Users\zshep\C#\Vlec\obj\Release\Vlec.csproj.CoreCompileInputs.cache
+C:\Users\zshep\C#\Vlec\obj\Release\Vlec.exe
+C:\Users\zshep\C#\Vlec\obj\Release\Vlec.pdb

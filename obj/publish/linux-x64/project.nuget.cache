@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "eJbrn16jO4jkXEuhmXwCNsnutBxsZv7TOmbi9OTpnkoYhhcUNpm47CLnmVNaWvBkbcZ3jAZ1masvdYA5qUHB3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zshep\\C#\\Vlec\\Vlec.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zshep\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\zshep\\.nuget\\packages\\microsoft.dotnet.analyzers.compatibility\\0.2.12-alpha\\microsoft.dotnet.analyzers.compatibility.0.2.12-alpha.nupkg.sha512",
+    "C:\\Users\\zshep\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\zshep\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\3.1.3\\microsoft.netcore.app.runtime.linux-x64.3.1.3.nupkg.sha512",
+    "C:\\Users\\zshep\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\3.1.3\\microsoft.aspnetcore.app.runtime.linux-x64.3.1.3.nupkg.sha512",
+    "C:\\Users\\zshep\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.3\\microsoft.netcore.app.host.linux-x64.3.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

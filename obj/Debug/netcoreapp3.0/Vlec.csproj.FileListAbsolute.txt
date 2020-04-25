@@ -1,0 +1,11 @@
+C:\Users\zshep\C#\Vlec\bin\Debug\netcoreapp3.0\Vlec.exe
+C:\Users\zshep\C#\Vlec\bin\Debug\netcoreapp3.0\Vlec.dll.config
+C:\Users\zshep\C#\Vlec\bin\Debug\netcoreapp3.0\Vlec.deps.json
+C:\Users\zshep\C#\Vlec\bin\Debug\netcoreapp3.0\Vlec.runtimeconfig.json
+C:\Users\zshep\C#\Vlec\bin\Debug\netcoreapp3.0\Vlec.runtimeconfig.dev.json
+C:\Users\zshep\C#\Vlec\bin\Debug\netcoreapp3.0\Vlec.dll
+C:\Users\zshep\C#\Vlec\bin\Debug\netcoreapp3.0\Vlec.pdb
+C:\Users\zshep\C#\Vlec\obj\Debug\netcoreapp3.0\Vlec.csprojAssemblyReference.cache
+C:\Users\zshep\C#\Vlec\obj\Debug\netcoreapp3.0\Vlec.dll
+C:\Users\zshep\C#\Vlec\obj\Debug\netcoreapp3.0\Vlec.pdb
+C:\Users\zshep\C#\Vlec\obj\Debug\netcoreapp3.0\Vlec.genruntimeconfig.cache
