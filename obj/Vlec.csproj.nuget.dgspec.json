@@ -1,31 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zshep\\C#\\Vlec\\Vlec.csproj": {}
+    "C:\\Users\\zshep\\Downloads\\Vlec\\Vlec.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zshep\\C#\\Vlec\\Vlec.csproj": {
+    "C:\\Users\\zshep\\Downloads\\Vlec\\Vlec.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zshep\\C#\\Vlec\\Vlec.csproj",
+        "projectUniqueName": "C:\\Users\\zshep\\Downloads\\Vlec\\Vlec.csproj",
         "projectName": "Vlec",
-        "projectPath": "C:\\Users\\zshep\\C#\\Vlec\\Vlec.csproj",
+        "projectPath": "C:\\Users\\zshep\\Downloads\\Vlec\\Vlec.csproj",
         "packagesPath": "C:\\Users\\zshep\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zshep\\C#\\Vlec\\obj\\",
+        "outputPath": "C:\\Users\\zshep\\Downloads\\Vlec\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zshep\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
             "projectReferences": {}
           }
         },
@@ -36,7 +37,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
           "dependencies": {
             "Microsoft.CSharp": {
               "target": "Package",
@@ -71,7 +73,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

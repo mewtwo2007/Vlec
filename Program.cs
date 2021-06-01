@@ -19,6 +19,7 @@ namespace Vlec
             string fileLocation;
             int currentline = 0;
             Mode currentMode = Mode.View;
+            Console.WriteLine(args.Length);
             if(args.Length == 0)
             {
                 Console.WriteLine("Please enter the file to edit/create");

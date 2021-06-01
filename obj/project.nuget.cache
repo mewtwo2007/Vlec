@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UKCB32KYrwpJXZEy6hE0Ywv5xEVBcxU+dVavSiHF4QSzVUl3Q27c82cSBCbqPcI9iKtKq8kvfnDqeJVgXnaZsg==",
+  "dgSpecHash": "LrXB1pAt24HqNGg7y5sIHZTSpzgG1nGnTQ0lRMqTFgvGvxRWolYCFRYwX7KbfRJfTaSE8Ux7xShbQQBV/KqCNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zshep\\C#\\Vlec\\Vlec.csproj",
+  "projectFilePath": "C:\\Users\\zshep\\Downloads\\Vlec\\Vlec.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zshep\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\zshep\\.nuget\\packages\\microsoft.dotnet.analyzers.compatibility\\0.2.12-alpha\\microsoft.dotnet.analyzers.compatibility.0.2.12-alpha.nupkg.sha512",

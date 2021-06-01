@@ -1,0 +1,16 @@
+C:\Users\zshep\Downloads\Vlec\bin\Debug\net5.0-windows\Vlec.exe
+C:\Users\zshep\Downloads\Vlec\bin\Debug\net5.0-windows\Vlec.dll.config
+C:\Users\zshep\Downloads\Vlec\bin\Debug\net5.0-windows\Vlec.deps.json
+C:\Users\zshep\Downloads\Vlec\bin\Debug\net5.0-windows\Vlec.runtimeconfig.json
+C:\Users\zshep\Downloads\Vlec\bin\Debug\net5.0-windows\Vlec.runtimeconfig.dev.json
+C:\Users\zshep\Downloads\Vlec\bin\Debug\net5.0-windows\Vlec.dll
+C:\Users\zshep\Downloads\Vlec\bin\Debug\net5.0-windows\ref\Vlec.dll
+C:\Users\zshep\Downloads\Vlec\bin\Debug\net5.0-windows\Vlec.pdb
+C:\Users\zshep\Downloads\Vlec\obj\Debug\net5.0-windows\Vlec.csproj.AssemblyReference.cache
+C:\Users\zshep\Downloads\Vlec\obj\Debug\net5.0-windows\Vlec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zshep\Downloads\Vlec\obj\Debug\net5.0-windows\Vlec.csproj.CoreCompileInputs.cache
+C:\Users\zshep\Downloads\Vlec\obj\Debug\net5.0-windows\PlatformCompat.Analyzers.settings
+C:\Users\zshep\Downloads\Vlec\obj\Debug\net5.0-windows\Vlec.dll
+C:\Users\zshep\Downloads\Vlec\obj\Debug\net5.0-windows\ref\Vlec.dll
+C:\Users\zshep\Downloads\Vlec\obj\Debug\net5.0-windows\Vlec.pdb
+C:\Users\zshep\Downloads\Vlec\obj\Debug\net5.0-windows\Vlec.genruntimeconfig.cache
